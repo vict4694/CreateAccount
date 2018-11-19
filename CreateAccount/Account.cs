@@ -7,11 +7,11 @@ using System.IO;
 
 namespace Account
 {
-    class Account
-    {
+    //class Account
+    //{
 
-        //{
-        //    using (StreamWriter sw = new StreamWriter("CDriveDirs.txt"))
-        //}
-    }
+    //    //{
+    //    //    using (StreamWriter sw = new StreamWriter("CDriveDirs.txt"))
+    //    //}
+    //}
 }
